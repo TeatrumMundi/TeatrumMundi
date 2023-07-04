@@ -13,9 +13,9 @@
 <p align="left">
 <a href="https://twitter.com/michagrocholski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="michagrocholski" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/michał-grocholski-5949a3267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michał grocholski" height="30" width="40" /></a>
-<a href="https://fb.com/michał grocholski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michał grocholski" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100005664913437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michał grocholski" height="30" width="40" /></a>
 <a href="https://instagram.com/michal.grocholski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michal.grocholski" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/white summit adventures" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="white summit adventures" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCZU3cSZbwECY1NIMXyrgG5A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="white summit adventures" height="30" width="40" /></a>
 <a href="https://discord.gg/mrgroszek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mrgroszek" height="30" width="40" /></a>
 </p>
 
