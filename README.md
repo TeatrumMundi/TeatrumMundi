@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/michagrocholski" target="blank"><img src="https://img.shields.io/twitter/follow/michagrocholski?logo=twitter&style=for-the-badge" alt="michagrocholski" /></a> </p>
 
-- 🌱 I’m currently learning **Unreal Engine 5** and **Unity**
+- 🌱 I’m currently learning **Unreal Engine 5**
 
 - 📫 How to reach me **michal3659@gmail.com**
 
