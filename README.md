@@ -21,8 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-master-teatrummundi.vercel.app/api?username=teatrummundi&show_icons=true&locale=en" alt="teatrummundi" /></p>
 
-<! -- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teatrummundi&" alt="teatrummundi" /></p> -->
-
 <h3 align="left">My Projects and achievements:</h3>
 
 - Hackathon Ecocraft 2022 - Second Place  🌏 
