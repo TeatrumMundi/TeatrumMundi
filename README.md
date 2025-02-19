@@ -12,6 +12,7 @@ Hi there! I'm TeatrumMundi, a passionate developer with a keen interest in explo
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TeatrumMundi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/TeatrumMundi?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TeatrumMundi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      
       ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
    </p>
    
