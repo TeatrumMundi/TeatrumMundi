@@ -1,5 +1,5 @@
 # 💫 About Me:
-**`Manual Tester`**
+**`Manual Tester`****`IT Student`****`Learning ISTQB FL`****`Learning JS, Tailwind`**
 
 Hi there! I'm TeatrumMundi, a passionate developer with a keen interest in exploring the intersection of technology and creativity. <br>My GitHub profile reflects my journey in coding, experimenting with new tools, and contributing to open-source projects.<br><br>🔭 I’m currently working on: League of Legends API Based Website<br><br>🌱 I’m currently learning: ISTQB FL, node.js, react, tailwind CSS, NEXT.js<br><br>💬 Ask me about: Manual Testing or Integrating API into your website<br><br>📫 How to reach me: mail me michal3659@gmail.com or ask using one of my socials 😄<br><br>⚡ Fun fact: I create Excel file for every aspect of my life. Once I even created on to rate food I ate.<br><br>Feel free to explore my repositories, and don't hesitate to reach out if you'd like to connect or collaborate!
 
